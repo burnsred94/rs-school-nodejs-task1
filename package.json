@@ -1,0 +1,22 @@
+{
+  "name": "rs-school-nodejs-task1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/burnsred94/rs-school-nodejs-task1.git"
+  },
+  "author": "Oleg Kamenshikov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/burnsred94/rs-school-nodejs-task1/issues"
+  },
+  "homepage": "https://github.com/burnsred94/rs-school-nodejs-task1#readme",
+  "dependencies": {
+    "comander": "0.0.1-security"
+  }
+}
